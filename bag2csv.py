@@ -57,7 +57,7 @@ else:
 '''
 
 
-listOfBagFiles=["2017-11-15-13-36-25.bag"]
+listOfBagFiles=["2017-11-15-13-36-25.bag", "2017-11-15-13-31-32.bag", "2017-11-29-14-40-33.bag", "2017-11-29-15-10-21.bag"]
 numberOfFiles=len(listOfBagFiles)
 count = 0
 for bagFile in listOfBagFiles:
